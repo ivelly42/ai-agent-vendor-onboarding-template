@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Request the Agent Ops template pack
+    url: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
+    about: Open the short $203 template-pack request form.
+  - name: Open the request page
+    url: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
+    about: Review the template-pack request page before opening an issue.
+  - name: Revenue proof rule
+    url: https://ivelly42.github.io/agent-ops-command-center/metrics/status.json
+    about: Revenue is counted only after checkout, receipt, payout, or seller-dashboard evidence.

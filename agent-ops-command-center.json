@@ -1,0 +1,38 @@
+{
+  "name": "AI Agent Vendor Onboarding Template",
+  "type": "public_discovery_mirror",
+  "paid_product": "Agent Ops Command Center",
+  "vendor_onboarding_template": "https://ivelly42.github.io/ai-agent-vendor-onboarding-template/VENDOR_ONBOARDING_TEMPLATE.md",
+  "landing_page": "https://ivelly42.github.io/ai-agent-vendor-onboarding-template/",
+  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "template_request_page": "https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html",
+  "template_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml",
+  "buy_page": "https://ivelly42.github.io/agent-ops-command-center/buy.html",
+  "metrics": "https://ivelly42.github.io/agent-ops-command-center/metrics/status.json",
+  "price_usd": 29,
+  "team_license_price_usd": 203,
+  "team_license_seats": 7,
+  "buyer_search_terms": [
+    "AI agent vendor onboarding template",
+    "AI coding-agent vendor onboarding template",
+    "Codex vendor onboarding template",
+    "Claude Code vendor onboarding template",
+    "Cursor vendor onboarding template",
+    "AI agent supplier intake template",
+    "AI agent vendor setup form",
+    "AI agent procurement onboarding",
+    "Agent Ops Command Center vendor onboarding"
+  ],
+  "sections": [
+    "Vendor Onboarding Summary",
+    "Supplier Intake Details",
+    "Product And License Line Item",
+    "Billing And Compliance Notes",
+    "Approval Evidence",
+    "Checkout Readiness",
+    "Delivery And Acceptance",
+    "Decision Record",
+    "Revenue Proof"
+  ],
+  "revenue_rule": "Count revenue only after checkout, receipt, payout, or seller-dashboard evidence tied to the paid template pack."
+}
