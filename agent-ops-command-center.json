@@ -5,7 +5,7 @@
   "vendor_onboarding_template": "https://ivelly42.github.io/ai-agent-vendor-onboarding-template/VENDOR_ONBOARDING_TEMPLATE.md",
   "landing_page": "https://ivelly42.github.io/ai-agent-vendor-onboarding-template/",
   "primary_request_url": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
-  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html",
+  "team_checkout_request_page": "https://ivelly42.github.io/agent-ops-command-center/team-request-url.html",
   "template_request_page": "https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html",
   "template_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml",
   "payment_ready_request_form": "https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml",
