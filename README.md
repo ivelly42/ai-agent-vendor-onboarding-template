@@ -8,9 +8,12 @@ This repository is a search and routing surface. The paid ZIP is not stored here
 
 - Vendor onboarding landing page: https://ivelly42.github.io/ai-agent-vendor-onboarding-template/
 - Free vendor onboarding template: https://ivelly42.github.io/ai-agent-vendor-onboarding-template/VENDOR_ONBOARDING_TEMPLATE.md
+- Primary $203 team request URL: https://ivelly42.github.io/agent-ops-command-center/team-request-url.html
 - Fast template-pack request page: https://ivelly42.github.io/agent-ops-command-center/template-pack-request.html
 - Fast team checkout request page: https://ivelly42.github.io/agent-ops-command-center/team-checkout-request.html
 - Fast template-pack request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=template-pack-request.yml
+- Payment-ready request form: https://github.com/ivelly42/agent-ops-command-center/issues/new?template=payment-ready.yml
+- Checkout status: https://ivelly42.github.io/agent-ops-command-center/checkout-status.json
 - Buy page: https://ivelly42.github.io/agent-ops-command-center/buy.html
 - Demand metrics: https://ivelly42.github.io/agent-ops-command-center/metrics/status.json
 - Main repository: https://github.com/ivelly42/agent-ops-command-center
